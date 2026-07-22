@@ -1,0 +1,7 @@
+# IDE / editor metadata
+.idea/
+.junie/
+
+# Project-specific generated assets live under the app folder
+aispend-audit/.local/
+
